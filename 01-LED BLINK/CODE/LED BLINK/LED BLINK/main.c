@@ -4,7 +4,7 @@
  * Created: 24-04-2024 15:27:59
  * Author : SRIDHAR
  */ 
-
+ 
 #define F_CPU 1000000UL
 #include <avr/io.h>
 #include <util/delay.h>
